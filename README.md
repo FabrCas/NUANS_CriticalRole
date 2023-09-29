@@ -8,3 +8,5 @@ The repo also contans:
  - Code of the main project on the dataset building
  - Code of the main project on characters' roles classification using different types of **Graph Neural Networks** (GNN)
  - Report of the project
+
+For a full description of the project, please take a look at the [report](https://github.com/FabrCas/NUANS_CriticalRole/blob/main/report.pdf)
